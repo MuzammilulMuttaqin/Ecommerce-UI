@@ -1,6 +1,6 @@
 # muzamproject
 
-Login app with rest api
+Slicing UI e-commerce
 
 ## Getting Started
 
