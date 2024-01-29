@@ -1,6 +1,6 @@
 # muzamproject
 
-A new Flutter project.
+Login app with rest api
 
 ## Getting Started
 
